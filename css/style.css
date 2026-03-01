@@ -93,8 +93,8 @@
     transition: 0.3s;
 }
 .men{
-    background-color: #eccfb5;
     padding-top: 30px;
+    background-color: #B5651D;
 }
 .men .one{
     color: #99704c;
@@ -106,18 +106,22 @@
     font-size: 0.9rem;
     font-weight: bold;
 }
-.men .three{
-    color: white;
+.men-section{
+    background-color: #eccfb5;
+}
+.men-section .three{
+    color: #99704c;
     font-size: 2rem;
 }
-.men .four{
-    
+.men-section .four{
+    color: white;
+    font-size: 1rem;
 }
-.men .carousel{
+.men-section .carousel{
     width: 300px;
     border-radius: 25px;
     overflow: hidden;
 }
-.men .carousel-control-prev, .men .carousel-control-next{
+.men-section .carousel-control-prev, .men .carousel-control-next{
     display: none;
 }

@@ -7,6 +7,8 @@
             </div>
         </div>
     </div>
+</div>
+<div class="men-section">
     <div class="container-fluid">
         <div class="row align-items-center">
             <div class="col-xl-3 d-flex justify-content-center">

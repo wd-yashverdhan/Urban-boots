@@ -7,7 +7,7 @@
             <div class="col-xl-7">
                 <ul class="nav justify-content-between">
                     <li class="nav-item">
-                        <a href="#" class="nav-link active">Home</a>
+                        <a href="index.php" class="nav-link active">Home</a>
                     </li>
                     <li class="nav-item">
                         <div class="dropdown">
