@@ -9,6 +9,7 @@
     <link href="gaurav-puma.css" rel="stylesheet">
   </head>
   <body>
+    <?php include('common/navigation.php');?>
 
    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
