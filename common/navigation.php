@@ -7,7 +7,7 @@
             <div class="col-xl-7">
                 <ul class="nav justify-content-between">
                     <li class="nav-item">
-                        <a href="#" class="nav-link active">Home</a>
+                        <a href="index.php" class="nav-link active">Home</a>
                     </li>
                     <li class="nav-item">
                         <div class="dropdown">
@@ -15,9 +15,9 @@
                                 Brands
                             </button>
                             <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="gaurav.php">Puma</a></li>
+                                <li><a class="dropdown-item" href="#">Red-tape</a></li>
                                 <li><a class="dropdown-item" href="#">Nike</a></li>
-                                <li><a class="dropdown-item" href="#">Puma</a></li>
-                                <li><a class="dropdown-item" href="#">Redtape</a></li>
                             </ul>
                         </div>
                     </li>

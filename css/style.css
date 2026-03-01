@@ -93,13 +93,35 @@
     transition: 0.3s;
 }
 .men{
-
+    padding-top: 30px;
+    background-color: #B5651D;
 }
-.men .carousel{
+.men .one{
+    color: #99704c;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.men .two{
+    color: white;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+.men-section{
+    background-color: #eccfb5;
+}
+.men-section .three{
+    color: #99704c;
+    font-size: 2rem;
+}
+.men-section .four{
+    color: white;
+    font-size: 1rem;
+}
+.men-section .carousel{
     width: 300px;
     border-radius: 25px;
     overflow: hidden;
 }
-.men .carousel-control-prev, .men .carousel-control-next{
+.men-section .carousel-control-prev, .men .carousel-control-next{
     display: none;
 }

@@ -5,3 +5,4 @@
 <?php include('common/men-section.php');?>
 <?php include('common/women-section.php');?>
 <?php include('common/gaurav-footer.php');?>
+<?php include('common/footer.php');?>
