@@ -11,6 +11,11 @@
 <div class="men-section">
     <div class="container-fluid">
         <div class="row align-items-center">
+            <div class="col-xl-9 text-center">
+                <h4 class="three">Branded shoes for a lady!</h4>
+                <p class="four">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga enim quo recusandae eos aliquid quae fugit animi eligendi aspernatur cupiditate?</p>
+                <button class="btn">Let's go</button>
+            </div>
             <div class="col-xl-3 d-flex justify-content-center">
                 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
@@ -34,10 +39,87 @@
                     </button>
                 </div>
             </div>
-            <div class="col-xl-9 text-center">
-                <h4 class="three">Branded shoes for a lady!</h4>
-                <p class="four">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga enim quo recusandae eos aliquid quae fugit animi eligendi aspernatur cupiditate?</p>
-                <button class="btn">Let's go</button>
+        </div>
+    </div>
+</div>
+<div class="best-sellers">
+    <div class="men">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-12 text-center">
+                    <h3 class="one">Best Seller for Women</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="best-seller-cards">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="card" style="width: 16rem;">
+                            <img src="images/16.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">$20.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></p>
+                                <a href="#" class="btn"> Buy</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="card" style="width: 16rem;">
+                            <img src="images/17.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">$45.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="card" style="width: 16rem;">
+                            <img src="images/18.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">$120.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="card" style="width: 16rem;">
+                            <img src="images/19.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">$199.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="card" style="width: 16rem;">
+                            <img src="images/20.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">$99.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="card" style="width: 16rem;">
+                            <img src="images/21.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">$109.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
             </div>
         </div>
     </div>

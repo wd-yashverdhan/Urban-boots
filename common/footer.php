@@ -13,6 +13,7 @@
     nav:false,
     autoplay:true,
     autoplayTimeout:1500,
+    autoplayHoverPause:true,
     responsive:{
         1000:{
             items:4

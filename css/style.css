@@ -128,3 +128,29 @@
 .men-section .carousel-control-prev, .men-section .carousel-control-next{
     display: none;
 }
+.best-seller-cards{
+    background-color: #eccfb5;
+    padding-top: 30px;
+}
+.best-seller-cards .card{
+    background-color: #99704c;
+    padding: 5px;
+}
+.best-seller-cards .card .fa-star{
+    color: yellow;
+}
+.best-seller-cards .card .card-title{
+    color: white;
+}
+.best-seller-cards .card .btn{
+    background-color: white;
+    color: #B5651D;
+    font-weight: bold;
+    width: 13rem;
+    padding: 0px;
+    transition: 0.3s;
+}
+.best-seller-cards .card .btn:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}

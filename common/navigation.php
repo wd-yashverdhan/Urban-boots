@@ -17,7 +17,7 @@
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="gaurav.php">Puma</a></li>
                                 <li><a class="dropdown-item" href="#">Red-tape</a></li>
-                                <li><a class="dropdown-item" href="#">Nike</a></li>
+                                <li><a class="dropdown-item" href="nike-sanjeev.php">Nike</a></li>
                             </ul>
                         </div>
                     </li>

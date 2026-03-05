@@ -44,21 +44,28 @@
 </div>
 <div class="best-sellers">
     <div class="men">
-        <div class="col-xl-12 text-center">
-            <h3 class="one">Best Seller for Men</h3>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-12 text-center">
+                    <h3 class="one">Best Seller for Men</h3>
+                </div>
+            </div>
         </div>
+        
     </div>
-    <div class="container-fluid">
-        <div class="row text-center">
+</div>
+<div class="best-seller-cards">
+    <div class="container">
+        <div class="row">
             <div class="col-xl-12">
                 <div class="owl-carousel owl-theme">
                     <div class="item">
                         <div class="card" style="width: 16rem;">
                             <img src="images/10.png" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title">$20.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></p>
+                                <a href="#" class="btn"> Buy</a>
                             </div>
                         </div>
                     </div>
@@ -66,9 +73,9 @@
                         <div class="card" style="width: 16rem;">
                             <img src="images/11.png" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title">$45.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
                             </div>
                         </div>
                     </div>
@@ -76,9 +83,9 @@
                         <div class="card" style="width: 16rem;">
                             <img src="images/12.png" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title">$120.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
                             </div>
                         </div>
                     </div>
@@ -86,9 +93,9 @@
                         <div class="card" style="width: 16rem;">
                             <img src="images/13.png" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title">$199.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
                             </div>
                         </div>
                     </div>
@@ -96,9 +103,9 @@
                         <div class="card" style="width: 16rem;">
                             <img src="images/14.png" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title">$99.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
                             </div>
                         </div>
                     </div>
@@ -106,9 +113,9 @@
                         <div class="card" style="width: 16rem;">
                             <img src="images/15.png" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title">$109.00</h5>
+                                <p class="card-text"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i></p>
+                                <a href="#" class="btn  "> Buy</a>
                             </div>
                         </div>
                     </div>
@@ -118,3 +125,4 @@
         </div>
     </div>
 </div>
+    
