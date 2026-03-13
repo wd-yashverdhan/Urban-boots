@@ -1,0 +1,205 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+
+
+/* header */
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.topbar{
+    
+    background:#e6e6e6;
+    padding:15px 40px;
+}
+
+.yashlogo{
+    text-align:center;
+}
+
+
+.yashmenu{
+    right:40px;
+    display:flex;
+    gap:25px;
+    font-size:15px;
+    color:#333;
+    margin-left: 90px;
+}
+
+.menu div{
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+/* crausal */
+ 
+.yash-crausal{
+   margin-top: 50px;
+}
+
+.w-100{
+    height: 415px;
+}
+
+
+
+/* cards */
+
+
+
+.yashcard{
+    width: 280px;
+    margin-left: 80px;
+}
+.yashcard img{
+         height: 350px;
+         border: 1px solid #000;
+         border-radius: 5px;
+         box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
+}
+
+.yashcard{
+      transition: 0.3s;
+    }
+
+.yashcard:hover{
+             transform: translateY(-5px);
+ }
+
+
+.yashcard .card-body{
+    font-family:cursive;
+    font-size: 20px
+    ;}
+
+.yashcard h5{
+    font-weight: bold;
+    color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: #000;
+    border: none;
+}
+
+.btn-primary:hover{
+    color: #fff;
+    background-color: gray;
+}
+
+
+      /* hiddencards */
+
+.yashhidde{
+    display: flex;
+    gap: 20px;
+    padding: 40px;
+    justify-content: center;
+}
+
+.yashhidde .card{
+    width: 250px;
+    height: 220px;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+.yashhidde .card img{
+    height: 100%;
+}
+
+
+.yashhidde .card h2{
+    position: absolute;
+    bottom: 12px;
+    left: 13px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+/* formalbanner */
+
+.formalbanner{
+    margin-top: 50px;
+}
+
+.formalbanner img{
+    width: 100%;
+    border: 1px solid black;
+}
+  
+
+
+
+/* maincard */
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.yashmaincard .container{
+    width:90%;
+    margin:auto;
+    display:flex;
+    gap:20px;
+    padding:40px 0;
+}
+
+.yashcard2{
+    width:30%;
+    margin-left: 57px;
+}
+
+.yashcard2 img{
+    width:100%;
+    height: 70%;
+}
+
+.yashcard2 h3{
+    font-size:18px;
+    margin:10px 0;
+}
+
+.price{
+    color:red;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.old-price{
+    color:gray;
+    text-decoration:line-through;
+}
+
+.old-price span{
+    color:red;
+    text-decoration:none;
+    margin-left:5px;
+}
